@@ -4,7 +4,10 @@ A GitHub App built with [probot](https://github.com/probot/probot) that celebrat
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Features ✨
+- A
+- B
+- C
 
 ## Getting started
 
